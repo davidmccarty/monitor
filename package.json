@@ -1,0 +1,21 @@
+{
+  "name": "nodemateriallite",
+  "version": "1.2.1",
+  "dependencies": {
+    "express": "*",
+    "jade": "*",
+    "stylus": "*",
+    "serve-favicon": "*",
+    "morgan": "*",
+    "body-parser": "*",
+    "method-override": "*"
+  },
+  "engines": {
+    "node": "*",
+    "npm": "*"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "entry point": "app.js"
+}
